@@ -1,5 +1,8 @@
 _repo: The-Thing-Beyond-Reason_67429
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67429-h/images/cover.jpg
 creator:
   author:
     agent_name: Holding, Elisabeth Sanxay
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54174
     wikipedia: https://en.wikipedia.org/wiki/Elisabeth_Sanxay_Holding
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67429#The-Thing-Beyond-Reason
 gutenberg_issued: '2022-02-17'
 identifiers:
   gutenberg: '67429'
